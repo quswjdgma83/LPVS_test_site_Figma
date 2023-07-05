@@ -1,0 +1,257 @@
+.home {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home .div {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+    height: 1080px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .home .text-wrapper {
+    color: #80808275;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 70px;
+    font-weight: 700;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 138px;
+    white-space: nowrap;
+    width: 374px;
+  }
+  
+  .home .group {
+    height: 896px;
+    left: 593px;
+    position: absolute;
+    top: 139px;
+    width: 1273px;
+  }
+  
+  .home .overlap-group {
+    background-color: #000000ba;
+    height: 896px;
+    position: relative;
+    width: 1271px;
+  }
+  
+  .home .open-source-code {
+    color: #ffffff;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 75px;
+    width: 1195px;
+  }
+  
+  .home .span {
+    font-weight: 500;
+  }
+  
+  .home .text-wrapper-2 {
+    font-family: "Inter-Regular", Helvetica;
+  }
+  
+  .home .overlap {
+    height: 797px;
+    left: 3px;
+    position: absolute;
+    top: 226px;
+    width: 565px;
+  }
+  
+  .home .license-pre {
+    color: #00057b;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 60px;
+    font-weight: 700;
+    left: 53px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 361px;
+  }
+  
+  .home .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 32px;
+    left: 348px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 765px;
+    width: 217px;
+  }
+  
+  .home .LPVS-remove {
+    background-image: url(/image/LPVS-remove-1.PNG);
+    height: 407px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 359px;
+    width: 469px;
+  }
+  
+  .home .bar {
+    height: 83px;
+    left: 39px;
+    position: absolute;
+    top: 26px;
+    width: 1844px;
+  }
+  
+  .home .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 151px;
+  }
+  
+  .home .rectangle {
+    background-color: #0057b8;
+    height: 3px;
+    left: 0;
+    position: absolute;
+    top: 80px;
+    width: 1842px;
+  }
+  
+  .home .menu-wrapper {
+    height: 55px;
+    left: 1359px;
+    position: absolute;
+    top: 19px;
+    width: 483px;
+  }
+  
+  .home .menu {
+    height: 55px;
+    position: relative;
+    width: 489px;
+  }
+  
+  .home .overlap-2 {
+    height: 43px;
+    left: 213px;
+    position: absolute;
+    top: 0;
+    width: 272px;
+  }
+  
+  .home .rectangle-2 {
+    background-color: #d9d9d9;
+    height: 3px;
+    left: 104px;
+    position: absolute;
+    top: 20px;
+    transform: rotate(-90deg);
+    width: 40px;
+  }
+  
+  .home .text-wrapper-5 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3px;
+    white-space: nowrap;
+    width: 115px;
+  }
+  
+  .home .profile {
+    height: 43px;
+    left: 136px;
+    position: absolute;
+    top: 0;
+    width: 135px;
+  }
+  
+  .home .overlap-group-2 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 43px;
+    position: relative;
+    width: 133px;
+  }
+  
+  .home .image {
+    background-image: url(/image/image-1.PNG);
+    height: 31px;
+    left: 11px;
+    object-fit: cover;
+    position: absolute;
+    top: 6px;
+    width: 35px;
+  }
+  
+  .home .text-wrapper-6 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 10px;
+    white-space: nowrap;
+    width: 71px;
+  }
+  
+  .home .text-wrapper-7 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 99px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2px;
+    white-space: nowrap;
+    width: 104px;
+  }
+  
+  .home .text-wrapper-8 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2px;
+    white-space: nowrap;
+    width: 89px;
+  }
+  
