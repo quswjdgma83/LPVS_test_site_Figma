@@ -57,7 +57,7 @@ export const Home = () => {
                 <div className="profile">
                   <div className="overlap-group-2">
                     <img className="image" />
-                    <div className="text-wrapper-6">Login</div>
+                    <div className="text-wrapper-6"><Link to={"/Login"} style={{ color:"black", textDecoration: "none" }}>Login</Link></div>
                   </div>
                 </div>
               </div>

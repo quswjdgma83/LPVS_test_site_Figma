@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import Support from './pages/Support';
 import History from './pages/History';
 import Result from './pages/Result';
-
+import Login from './pages/Login';
 
 function App() {
   return (
@@ -15,6 +15,7 @@ function App() {
             <Route path="/support" element={<Support />} />
             <Route path="/history" element={<History />} />
             <Route path="/result" element={<Result />} />
+            <Route path="/login" element={<Login />} />
           </Routes>
         </div>
       </BrowserRouter>

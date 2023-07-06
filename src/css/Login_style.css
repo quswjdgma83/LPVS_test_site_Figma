@@ -1,0 +1,322 @@
+.SNS-login {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.SNS-login .div {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.SNS-login .login-box {
+  height: 557px;
+  left: 348px;
+  position: absolute;
+  top: 290px;
+  width: 1020px;
+}
+
+.SNS-login .overlap {
+  height: 510px;
+  left: 207px;
+  position: relative;
+  top: -1px;
+  width: 810px;
+}
+
+.SNS-login .line {
+  height: 1px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 84px;
+  width: 750px;
+}
+
+.SNS-login .rectangle {
+  height: 510px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 810px;
+}
+
+.SNS-login .naver-login {
+  height: 258px;
+  left: 5px;
+  object-fit: contain;
+  position: absolute;
+  top: 168px;
+  width: 279px;
+}
+
+.SNS-login .kakao-login {
+  height: 222px;
+  left: 278px;
+  object-fit: cover;
+  position: absolute;
+  top: 186px;
+  width: 237px;
+}
+
+.SNS-login .google-login {
+  height: 222px;
+  left: 539px;
+  object-fit: cover;
+  position: absolute;
+  top: 186px;
+  width: 243px;
+}
+
+.SNS-login .text-wrapper {
+  color: #000000;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+  width: 249px;
+}
+
+.SNS-login .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 99px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 129px;
+  width: 91px;
+}
+
+.SNS-login .text-wrapper-3 {
+  color: #000000;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 351px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 129px;
+  width: 102px;
+}
+
+.SNS-login .text-wrapper-4 {
+  color: #000000;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 613px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 129px;
+  width: 112px;
+}
+
+.SNS-login .close-button {
+  height: 37px;
+  left: 640px;
+  position: absolute;
+  top: 445px;
+  width: 129px;
+}
+
+.SNS-login .overlap-group {
+  border-radius: 25px;
+  height: 37px;
+  position: relative;
+  width: 127px;
+}
+
+.SNS-login .text-wrapper-5 {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 66px;
+}
+
+.SNS-login .rectangle-2 {
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 127px;
+}
+
+.SNS-login .bar {
+  height: 83px;
+  left: 39px;
+  position: absolute;
+  top: 26px;
+  width: 1844px;
+}
+
+.SNS-login .h-1 {
+  color: #000000;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 50px;
+  font-weight: 700;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 151px;
+}
+
+.SNS-login .rectangle-3 {
+  background-color: #0057b8;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+  width: 1842px;
+}
+
+.SNS-login .group {
+  height: 55px;
+  left: 1359px;
+  position: absolute;
+  top: 19px;
+  width: 483px;
+}
+
+.SNS-login .menu {
+  height: 55px;
+  position: relative;
+  width: 489px;
+}
+
+.SNS-login .overlap-2 {
+  height: 43px;
+  left: 213px;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.SNS-login .rectangle-4 {
+  background-color: #d9d9d9;
+  height: 3px;
+  left: 104px;
+  position: absolute;
+  top: 20px;
+  transform: rotate(-90deg);
+  width: 40px;
+}
+
+.SNS-login .text-wrapper-6 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.SNS-login .profile {
+  height: 43px;
+  left: 136px;
+  position: absolute;
+  top: 0;
+  width: 135px;
+}
+
+.SNS-login .overlap-group-2 {
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  height: 43px;
+  position: relative;
+  width: 133px;
+}
+
+.SNS-login .image {
+  height: 31px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 35px;
+}
+
+.SNS-login .text-wrapper-7 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.SNS-login .text-wrapper-8 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 99px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.SNS-login .text-wrapper-9 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+  width: 89px;
+}
+/*
+.login-box {
+  position: absolute;
+  left: 560px;
+  top: 290px;
+  width: 600px;
+  height: 500px;
+  background: white;
+  border: 1px solid black;
+  border-radius: 25px;
+}
+*/
